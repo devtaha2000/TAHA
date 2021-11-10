@@ -7,4 +7,5 @@ git add:le roule de cette commande est enregistrer fils
 dans git
 git commit -m "": cette Cette demande nous permet de connaître le changement qui s'est produit, pourquoi et quand le changement s'est produit.
 git push:Cette application nous permet de convertir le projet de git à github .
-git remote -v:La commande git remote est utilisée pour spécifier les points de terminaison distants sur lesquels les commandes de synchronisation agiront
+git remote -v:La commande git remote est utilisée pour spécifier les points de terminaison distants sur lesquels les commandes de synchronisation agiront.
+Git clone : la commande git clone est coller le projet avec repertoire
