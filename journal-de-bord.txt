@@ -30,4 +30,4 @@
 15/11/2021:
     aujourd'hui jai faire plusieur des exircices dans les structures conditionnel if et switch  
    para-pore swich comme un persone qui comparer entre les donner par lutilisateur et par les donner déja existe dans switch et par-apore if 
-  il faut existe un condition mais aujour'hui jai cogner un piege pour if tanque ecrire 0 dan le condition qui signifier que cette condition est faus et jai faire un quiz dan langage C .
+  il faut existe un condition mais aujour'hui jai cogner un piege pour if tanque ecrire 0 dan le condition qui signifier que cette condition est faus et jai faire un quiz dans langage C. 
