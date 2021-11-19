@@ -40,4 +40,8 @@
 17/11/2021:
       aujourd'hui le profe il est expliquer comment utiliser un algorithme ou comment resoudre quel'qun probleme par l'algorithme et par détailler 
       les resoudre de probleme et il faut ecrire les formule posible pour toucher au but et jai connu comment utiliser les boocles dans un exircices   
-      et puex appliquer cette methode de profe en realiter par analiser est garder les sider et les fourmule pour toucher au but.  
+      et puex appliquer cette methode de profe en realiter par analiser est garder les sider et les fourmule pour toucher au but. 
+19/11/2021:
+       aujourd'hui jai appris les boocles et les fonction et nous avons fais un live codin dans les instruction répititive et jai connu que les instruction répititive
+       crée pour eviter la répititive des instruction comme un multiplication de 7 . et jai connu aussi que les fonction utiliser pour eviter le recherche 
+       sur des erreurs dans le coude en va rechircher si tou dans le foction detecter.    
