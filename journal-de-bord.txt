@@ -30,12 +30,17 @@
 15/11/2021:
     aujourd'hui jai faire plusieur des exircices dans les structures conditionnel if et switch  
    para-pore swich comme un persone qui comparer entre les donner par lutilisateur et par les donner déja existe dans switch et par-apore if 
+<<<<<<< HEAD
   il faut existe un condition mais aujour'hui jai cogner un piege pour if tanque ecrire 0 dan le condition qui signifier que cette condition est faus et jai faire un quiz dan langage C .
+=======
+  il faut existe un condition mais aujour'hui jai cogner un piege pour if tanque ecrire 0 dan le condition qui signifier que cette condition est faus et jai faire un quiz dans langage C.
+>>>>>>> c6043247fea6f2e1bd7e9e639cdb15d9cc044559
 
 16/11/2021:
      aujourd'hui jai faire un code live d'un challenge et jai reachirche sur les boocles for et while et do while , les boocle cest adire une struction 
      repititife et ctte boocle utiliser dans quelqun construction repitife , et nous avons faire un presontation sur Algorithme et j'ai appris 
      que algorithme est constituer par plusieur instruction pour resoudre un probleme et j'ai appris algorithme complixity et il est constituer en deus types
+<<<<<<< HEAD
      et cet types il est rechercher par big o notation et one deux types de serche : binary et sequantial .
 17/11/2021:
       aujourd'hui le profe il est expliquer comment utiliser un algorithme ou comment resoudre quel'qun probleme par l'algorithme et par détailler 
@@ -48,3 +53,14 @@
 22/11/2021:
        aujourd'hui jai coder mon projet et jai avancer dans les fonction et structure de donner et taibi il est fait un presentation dans les structure de donner et les fonction
        , et jai fait un quiz malorosment jai prendre 35 note malgré si j'ai fait beaucoup d'efforts dans la classe et dans la maison .   
+=======
+     et cet types il est rechercher par big o notation et one deux types de serche : binary et sequantial . 
+17/11/2021:
+      aujourd'hui le profe il est expliquer comment utiliser un algorithme ou comment resoudre quel'qun probleme par l'algorithme et par détailler 
+      les resoudre de probleme et il faut ecrire les formule posible pour toucher au but et jai connu comment utiliser les boocles dans un exircices   
+      et puex appliquer cette methode de profe en realiter par analiser est garder les sider et les fourmule pour toucher au but.
+19/11/2021:
+       aujourd'hui jai appris les boocles et les fonction et nous avons fais un live codin dans les instruction répititive et jai connu que les instruction répititive
+       crée pour eviter la répititive des instruction comme un multiplication de 7 . et jai connu aussi que les fonction utiliser pour eviter le recherche 
+       sur des erreurs dans le coude en va rechircher si tou dans le foction detecter.       
+>>>>>>> c6043247fea6f2e1bd7e9e639cdb15d9cc044559
