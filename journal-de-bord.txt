@@ -64,3 +64,9 @@
        crée pour eviter la répititive des instruction comme un multiplication de 7 . et jai connu aussi que les fonction utiliser pour eviter le recherche 
        sur des erreurs dans le coude en va rechircher si tou dans le foction detecter.       
 >>>>>>> c6043247fea6f2e1bd7e9e639cdb15d9cc044559
+23a24/11/2021
+       hier jai trouve un blockage  par apore le triage mais jai faire un efore pour connu la methode de triage et jai fai la solution et jai analiser la suite de projat
+       et aujourd'hui jai fai affichage des clients et jai affichar par ordre descenden et Ascenden et jai trouve un blokage dans 
+       Ordre Ascendant (les comptes bancaires ayant un montant supérieur à un chiffre introduit),mai jai partire a la maison et jai truve la solusion
+       et aujourd'hui et hier jai appris comment resoudre les blockage apartire recherche dans google et les sites.peux utiliser ce skiles dans un cosieter 
+       de devlopment . 
